@@ -44,3 +44,4 @@ Create a `.env.local` file in the root with:
 
 ```env
 GROQ_API_KEY=your_actual_groq_key_here
+---
