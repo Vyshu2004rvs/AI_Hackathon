@@ -5,7 +5,9 @@
 Your intelligent companion for learning and understanding — powered by Groq's blazing-fast LLaMA 3-70B model.
 
 ![App Screenshot](/images/Screenshot1.png)
-
+![App Screenshot](/images/Screenshot2.png)
+![App Screenshot](/images/Screenshot3.png)
+![App Screenshot](/images/Screenshot4.png)
 ---
 
 ## 🌟 Features
